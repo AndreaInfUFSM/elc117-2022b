@@ -1,4 +1,4 @@
-# Paradigmas de Programação - ELC117-2022b
+# Paradigmas de Programação - 2022b
 [Sobre a disciplina](#sobre-a-disciplina) | [Aulas](#aulas) | [Avaliações](#avaliações) | [Bibliografia](#bibliografia) 
 
 <!--| [Quizzes](#quizzes) -->
