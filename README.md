@@ -1,15 +1,32 @@
 # Paradigmas de Programação - 2022b
 [Sobre a disciplina](#sobre-a-disciplina) | [Aulas](#aulas) | [Avaliações](#avaliações) | [Bibliografia](#bibliografia) 
 
-<!--| [Quizzes](#quizzes) -->
 
+<br />
+<div align="center">
 
-Segundo semestre de 2022  
-Professora: Andrea Schwertner Charão (andrea@inf.ufsm.br)  
-Horários: terças e quintas, das 10:30 às 12:30  
-Sala de aula: 334  
+<h2 align="center">Paradigmas de Programação</h2>
+<h3 align="center">Segundo semestre de 2022</h3>
+
+  <p align="center">
+    Desafie-se a explorar o maravilhoso mundo das linguagens de programação!
+
+    <br />
+    <a href="#sobre-a-disciplina">Sobre a disciplina</a>
+    ·
+    <a href="#aulas">Aulas</a>
+    ·
+    <a href="#avaliações">Avaliações</a>
+    ·
+    <a href="#bibliografia">Bibliografia</a>
+  </p>
+</div>
+
 
 ## Sobre a disciplina
+ - Professora: Andrea Schwertner Charão (andrea@inf.ufsm.br)  
+ - Horários: terças e quintas, das 10:30 às 12:30  
+ - Sala de aula: 334  
  - [Ementa](https://www.ufsm.br/ementario/disciplinas/ELC117): informações institucionais sobre objetivos, programa e bibliografia.
  - As aulas serão presenciais, com registro de frequência. Entre as aulas, usaremos Discord para comunicação síncrona/assíncrona por chat/áudio. 
 - Usaremos estratégias de aprendizagem ativa, incluindo dinâmicas/discussões, práticas com resolução de problemas e projetos colaborativos de programação, alternados com momentos expositivos sempre que necessário.
