@@ -57,7 +57,7 @@ Visão geral dos paradigmas de programação:
 Programação orientada a objetos (<a href="https://docs.google.com/presentation/d/1VnAShE4Eir8KIdfD2hU1SIJ1IWmzzVOpGUbCozqiyw0/edit?usp=sharing">slides</a>).
 </li>
 <li>
- <a href="praticas/java/java01">Primeira prática com Java</a>.
+ <a href="praticas/java01">Primeira prática com Java</a>.
 </li>
 </ul></td>
 </tr>
