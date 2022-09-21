@@ -1,20 +1,30 @@
-# Paradigmas de Programação - 2022b
-[Sobre a disciplina](#sobre-a-disciplina) | [Aulas](#aulas) | [Avaliações](#avaliações) | [Bibliografia](#bibliografia) 
+<br /><a name="readme-top"></a>
+<div align="center">
+  <p align="center"><a href="http://www.ufsm.br/">Universidade Federal de Santa Maria</a></p>
+  <h1 align="center">Paradigmas de Programação</h1>
+  <h3 align="center">Segundo semestre de 2022</h3>
+  <p align="center">
+    Desafie-se a explorar o maravilhoso mundo das linguagens de programação!
+    <br />
+    <a href="#sobre-a-disciplina">Sobre a disciplina</a>
+    ·
+    <a href="#aulas">Aulas</a>
+    ·
+    <a href="#avaliações">Avaliações</a>
+    ·
+    <a href="#bibliografia">Bibliografia</a>
+  </p>
+</div>
 
-<!--| [Quizzes](#quizzes) -->
-
-
-Segundo semestre de 2022  
-Professora: Andrea Schwertner Charão (andrea@inf.ufsm.br)  
-Horários: terças e quintas, das 10:30 às 12:30  
-Sala de aula: 334  
 
 ## Sobre a disciplina
+ - Professora: Andrea Schwertner Charão (andrea@inf.ufsm.br)  
+ - Horários: terças e quintas, das 10:30 às 12:30, sala 334
  - [Ementa](https://www.ufsm.br/ementario/disciplinas/ELC117): informações institucionais sobre objetivos, programa e bibliografia.
  - As aulas serão presenciais, com registro de frequência. Entre as aulas, usaremos Discord para comunicação síncrona/assíncrona por chat/áudio. 
 - Usaremos estratégias de aprendizagem ativa, incluindo dinâmicas/discussões, práticas com resolução de problemas e projetos colaborativos de programação, alternados com momentos expositivos sempre que necessário.
  - Todo o material da disciplina será disponibilizado via GitHub e as entregas de exercícios e trabalhos também serão no GitHub. 
-
+<p align="right">(<a href="#readme-top">início</a>)</p>
 
 
 ## Aulas
@@ -57,7 +67,7 @@ Visão geral dos paradigmas de programação:
 Programação orientada a objetos (<a href="https://docs.google.com/presentation/d/1VnAShE4Eir8KIdfD2hU1SIJ1IWmzzVOpGUbCozqiyw0/edit?usp=sharing">slides</a>).
 </li>
 <li>
- <a href="praticas/java/java01">Primeira prática com Java</a>.
+ <a href="praticas/java01">Primeira prática com Java</a>.
 </li>
 </ul></td>
 </tr>
@@ -67,7 +77,7 @@ Programação orientada a objetos (<a href="https://docs.google.com/presentation
 
 </tbody>
 </table>
-
+<p align="right">(<a href="#readme-top">início</a>)</p>
 
 ## Avaliações
 
@@ -83,7 +93,7 @@ As produções serão examinadas a cada bimestre, compondo 2 momentos de avalia�
 - 2o Bimestre: 24 e 25/01/2023
 
 Avaliação final (exame): 07/02/2023
-
+<p align="right">(<a href="#readme-top">início</a>)</p>
 
 
 ## Bibliografia
@@ -91,3 +101,4 @@ Avaliação final (exame): 07/02/2023
  - Robert Sebesta. Conceitos de Linguagens de Programação. Bookman, 2018. Disponível no [Portal de E-books](https://www.ufsm.br/orgaos-suplementares/biblioteca/e-books-2/) da UFSM.
  - Bruce A. Tate. [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages](https://www.semanticscholar.org/paper/Seven-Languages-in-Seven-Weeks%3A-A-Pragmatic-Guide-Tate/8ab7286cc9e93b11bf783d4ba1d3ddc14630d202). 
  - Outros materiais de referência indicados nas aulas.
+<p align="right">(<a href="#readme-top">início</a>)</p>
