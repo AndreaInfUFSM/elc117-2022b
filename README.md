@@ -19,8 +19,7 @@
 
 ## Sobre a disciplina
  - Professora: Andrea Schwertner Charão (andrea@inf.ufsm.br)  
- - Horários: terças e quintas, das 10:30 às 12:30  
- - Sala de aula: 334  
+ - Horários: terças e quintas, das 10:30 às 12:30, sala 334
  - [Ementa](https://www.ufsm.br/ementario/disciplinas/ELC117): informações institucionais sobre objetivos, programa e bibliografia.
  - As aulas serão presenciais, com registro de frequência. Entre as aulas, usaremos Discord para comunicação síncrona/assíncrona por chat/áudio. 
 - Usaremos estratégias de aprendizagem ativa, incluindo dinâmicas/discussões, práticas com resolução de problemas e projetos colaborativos de programação, alternados com momentos expositivos sempre que necessário.
