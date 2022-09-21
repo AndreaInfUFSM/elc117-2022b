@@ -44,9 +44,25 @@ Visão geral dos paradigmas de programação:
 <a href="https://docs.google.com/presentation/d/1prjJ7oIiRd6TK1zobAwmyyS1qj3zSBfxDNt6oyTt-Tg/edit?usp=sharing">conceitos</a> e
 <a href="https://docs.google.com/presentation/d/1prjJ7oIiRd6TK1zobAwmyyS1qj3zSBfxDNt6oyTt-Tg/edit?usp=sharing">resultados do questionário</a>. 
 </li>
-
 </ul></td>
 </tr>
+
+
+<tr>
+<td align="right">3</td>
+<td>22/09/2022</td>
+<td>Qui</td>
+<td><ul>
+<li>
+Programação orientada a objetos (<a href="https://docs.google.com/presentation/d/1VnAShE4Eir8KIdfD2hU1SIJ1IWmzzVOpGUbCozqiyw0/edit?usp=sharing">slides</a>).
+</li>
+<li>
+ <a href="praticas/java/java01">Primeira prática com Java</a>.
+</li>
+</ul></td>
+</tr>
+
+
 
 
 </tbody>
