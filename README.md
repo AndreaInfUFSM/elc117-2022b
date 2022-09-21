@@ -1,16 +1,9 @@
-# Paradigmas de Programação - 2022b
-[Sobre a disciplina](#sobre-a-disciplina) | [Aulas](#aulas) | [Avaliações](#avaliações) | [Bibliografia](#bibliografia) 
-
-
 <br />
 <div align="center">
-
-<h2 align="center">Paradigmas de Programação</h2>
+<h1 align="center">Paradigmas de Programação</h1>
 <h3 align="center">Segundo semestre de 2022</h3>
-
   <p align="center">
     Desafie-se a explorar o maravilhoso mundo das linguagens de programação!
-
     <br />
     <a href="#sobre-a-disciplina">Sobre a disciplina</a>
     ·
