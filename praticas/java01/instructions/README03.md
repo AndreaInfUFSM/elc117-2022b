@@ -3,7 +3,7 @@
 ## Exercícios (Parte 1)
 
 
-1. Abra o programa [HelloWorld.java](src/HelloWorld.java). Dê uma olhada no código. O que será que o programa faz? Que partes do programa você reconhece por semelhança com outras linguagens? O que parece desconhecido?
+1. Abra o programa [HelloWorld.java](../src/HelloWorld.java). Dê uma olhada no código. O que será que o programa faz? Que partes do programa você reconhece por semelhança com outras linguagens? O que parece desconhecido?
 
 2. Num **terminal de comandos** (console), compile o programa:
 
