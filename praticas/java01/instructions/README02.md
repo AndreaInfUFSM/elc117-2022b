@@ -7,12 +7,12 @@ Para esta prática, você vai precisar dos arquivos da pasta [src](../src/).
 
 Há várias formas de obter os arquivos. Por exemplo:
 
-Opção 1 (preferível): Em uma console, use cliente Git com interface por linha de comando e faça um clone do repositório da disciplina:
+**Opção 1** (preferível): Em uma console, use cliente Git com interface por linha de comando e faça um clone do repositório da disciplina:
 ```
 git clone https://github.com/AndreaInfUFSM/elc117-2022b/
 ```
 
-Opção 2 (no desespero!): Pela interface Web do GitHub, navegue até o arquivo desejado e clique em "Raw". Salve o código direto pelo navegador ou use a URL como entrada para um programa de download (por exemplo wget). 
+**Opção 2** (no desespero!): Pela interface Web do GitHub, navegue até o arquivo desejado e clique em "Raw". Salve o código direto pelo navegador ou use a URL como entrada para um programa de download (por exemplo wget). 
 
 Outras opções incluem: usar a interface de um IDE com suporte a Git (melhor opção a longo prazo), usar um serviço chamado [DownGit](https://downgit.github.io) (no desespero!), etc.
 
