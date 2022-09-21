@@ -1,4 +1,4 @@
-# Paradigmas de Programação - ELC117-2022b
+# Paradigmas de Programação - 2022b
 [Sobre a disciplina](#sobre-a-disciplina) | [Aulas](#aulas) | [Avaliações](#avaliações) | [Bibliografia](#bibliografia) 
 
 <!--| [Quizzes](#quizzes) -->
@@ -42,7 +42,7 @@ Sala de aula: 334
 <li> 
 Visão geral dos paradigmas de programação: 
 <a href="https://docs.google.com/presentation/d/1prjJ7oIiRd6TK1zobAwmyyS1qj3zSBfxDNt6oyTt-Tg/edit?usp=sharing">conceitos</a> e
-<a href="https://docs.google.com/presentation/d/1prjJ7oIiRd6TK1zobAwmyyS1qj3zSBfxDNt6oyTt-Tg/edit?usp=sharing">resultados do questionário</a>. 
+<a href="https://docs.google.com/presentation/d/1u3tt2uiZ_dIroTTjtPWX4QILDFwV2VITF9R0Cz9TCyM/edit?usp=sharing">resultados do questionário</a>. 
 </li>
 </ul></td>
 </tr>
