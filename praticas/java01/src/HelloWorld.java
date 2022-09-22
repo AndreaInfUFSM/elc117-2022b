@@ -7,11 +7,12 @@ import java.util.Arrays;
 
 class HelloWorld {
   public static void main(String[] args) {
-    String[] names = {"Ana Paula", "Anderson", "Gabriel Denardi", "Gabriel Franca",
-                      "Gabriel Caetano", "Marcelo", "Miguel", "Alejandro", 
-                      "Arthur", "Eduardo", "Felipe Colpo", "Felipe Sanfelice",
-                      "Francisco", "Giovanni", "Gleison", "Heitor", "Jean",
-                      "Jean", "Joao Marcos", "Leonardo", "Tiago", "Waliston"};
+    String[] names = {"Ana Paula", "Anderson", "Gabriel D.", "Gabriel F.",
+                      "G. Caetano", "Maithe", "Marcelo A.", "Miguel", "Rodrigo", "Alejandro", 
+                      "Eduardo G.", "Eduardo S.", "Felipe C.", "Felipe S.",
+                      "Francisco", "Giovanni", "Gleison", "Heitor", 
+                      "Joao Marcos", "Julio Cesar", "Leonardo", "Marcelo M.", 
+                      "Michael", "Tiago", "Waliston"};
     Random generator = new Random();
     int randomIndex = generator.nextInt(names.length);                      
     System.out.println("Which classmate will get this greeting?");
