@@ -72,6 +72,19 @@ Programação orientada a objetos (<a href="https://docs.google.com/presentation
 </ul></td>
 </tr>
 
+<tr>
+<td align="right">4</td>
+<td>26/09/2022</td>
+<td>Ter</td>
+<td><ul>
+<li>
+Programação orientada a objetos: introdução, conceitos e exemplos de encapsulamento, classes, objetos, métodos, atributos, construtores (<a href="https://docs.google.com/presentation/d/1S6A0sSpyoXDfmeIAo0EuTI_Ns-Avvw0u-azNtypf1Ko/edit?usp=sharing">slides</a>).
+</li>
+<li>
+ <a href="praticas/java02">Segunda prática com Java</a>.
+</li>
+</ul></td>
+</tr>
 
 
 
