@@ -74,7 +74,7 @@ Programação orientada a objetos (<a href="https://docs.google.com/presentation
 
 <tr>
 <td align="right">4</td>
-<td>26/09/2022</td>
+<td>27/09/2022</td>
 <td>Ter</td>
 <td><ul>
 <li>
@@ -86,6 +86,19 @@ Programação orientada a objetos: introdução, conceitos e exemplos de encapsu
 </ul></td>
 </tr>
 
+<tr>
+<td align="right">5</td>
+<td>29/09/2022</td>
+<td>Qui</td>
+<td><ul>
+<li>
+Programação orientada a objetos: encapsulamento, classes, objetos, métodos, atributos, construtores. Classe ArrayList em Java.
+</li>
+<li>
+ <a href="praticas/java03">Terceira prática com Java</a>.
+</li>
+</ul></td>
+</tr>
 
 
 </tbody>
