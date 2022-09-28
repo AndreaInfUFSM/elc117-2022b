@@ -4,16 +4,16 @@
 
 1. Obtenha os códigos abaixo:
 
-- [Point.java](../src/ListOfCircles/Point.java): classe que representa um ponto em um plano, com coordenadas X e Y
-- [Circle.java](../src/ListOfCircles/Circle.java): classe que representa um círculo, definido por um ponto central e um raio
-- [ListOfCircles.java](../src/ListOfCircles/ListOfCircles.java): classe contendo um método `main` que cria vários objetos e os adiciona a uma lista.
+   - [Point.java](../src/ListOfCircles/Point.java): classe que representa um ponto em um plano, com coordenadas X e Y
+   - [Circle.java](../src/ListOfCircles/Circle.java): classe que representa um círculo, definido por um ponto central e um raio
+   - [ListOfCircles.java](../src/ListOfCircles/ListOfCircles.java): classe contendo um método `main` que cria vários objetos e os adiciona a uma lista.
 
 
 2. Compile e execute o código na pasta `ListOfCircles`:
-```
-javac *.java
-java ListOfCircles
-```
+   ```
+   javac *.java
+   java ListOfCircles
+   ```
 
 3. Analise as classes `Point` e `Circle`. Note que cada uma delas é uma classe bem simples, como as que vimos na aula anterior.
 
