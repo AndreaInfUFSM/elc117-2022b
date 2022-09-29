@@ -8,7 +8,7 @@
    - [Circle.java](../src/ListOfCircles/Circle.java): classe que representa um círculo, definido por um ponto central e um raio
    - [ListOfCircles.java](../src/ListOfCircles/ListOfCircles.java): classe contendo um método `main` que cria vários objetos e os adiciona a uma lista.
 
-
+   <br>
    <details>
      <summary>Pro Tip: Dica para Quem fez fork do repositório da disciplina</summary>
      <ul>
