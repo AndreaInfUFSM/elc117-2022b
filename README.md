@@ -97,6 +97,10 @@ Programação orientada a objetos: encapsulamento, classes, objetos, métodos, a
 <li>
  <a href="praticas/java03">Terceira prática com Java</a>.
 </li>
+<li>
+ Veja mais: <a href="https://www.geeksforgeeks.org/association-composition-aggregation-java/">Associações entre classes</a>.
+</li>
+
 </ul></td>
 </tr>
 
