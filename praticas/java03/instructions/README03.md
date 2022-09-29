@@ -6,7 +6,12 @@ Você vai criar um programa para armazenar informações sobre uma lista de cole
 
 Os dados deverão ser gerados programaticamente (não devem ser digitados pelo usuário).
 
+⚠️ Sempre que for definir nomes de classes, métodos, atributos, variáveis, etc., acostume-se a seguir alguma convenção de estilo, por exemplo
+https://google.github.io/styleguide/javaguide.html#s5-naming. Veja [aqui](https://vaiprogramar.com/nomes-de-variaveis-tudo-que-voce-precisa-saber-para-programar/) um artigo sobre a importância disso.
+
 ## Class TeamMate
+
+
 
 1. Crie a classe `TeamMate` com os seguintes atributos representando um colega:
    - userId: String
