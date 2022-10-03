@@ -100,7 +100,18 @@ Programação orientada a objetos: encapsulamento, classes, objetos, métodos, a
 <li>
  Veja mais: <a href="https://www.geeksforgeeks.org/association-composition-aggregation-java/">Associações entre classes</a>.
 </li>
+</ul></td>
+</tr>
 
+<tr>
+<td align="right">6</td>
+<td>04/10/2022</td>
+<td>Ter</td>
+<td><ul>
+
+<li>
+ <a href="praticas/java04">Quarta prática com Java</a>.
+</li>
 </ul></td>
 </tr>
 
