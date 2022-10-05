@@ -116,6 +116,22 @@ Programação orientada a objetos: encapsulamento, classes, objetos, métodos, a
 </tr>
 
 
+<tr>
+<td align="right">7</td>
+<td>06/10/2022</td>
+<td>Qui</td>
+<td><ul>
+<li>
+Programação orientada a objetos: herança. 
+</li>
+<li>
+ <a href="praticas/java05">Quinta prática com Java</a>.
+</li>
+
+</ul></td>
+</tr>
+
+
 </tbody>
 </table>
 <p align="right">(<a href="#readme-top">início</a>)</p>
