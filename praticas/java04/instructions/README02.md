@@ -5,7 +5,7 @@
 1. Obtenha os códigos abaixo:
 
    - [Student.java](../src/incomplete/Student.java): classe que representa um estudante de uma instituição
-   - [Professor.java](../src/incomplete/Professorjava): classe que representa um professor de uma instituição
+   - [Professor.java](../src/incomplete/Professor.java): classe que representa um professor de uma instituição
    - [Laboratory.java](../src/incomplete/Laboratory.java): classe que representa um laboratório da instituição. Um laboratório pode ter estudantes e professores como membros. **Esta classe está incompleta!**
    - [Main.java](../src/incomplete//Main.java): classe contendo um método `main` que cria e manipula objetos das classes acima
 
