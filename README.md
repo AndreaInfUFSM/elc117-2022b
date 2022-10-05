@@ -122,7 +122,7 @@ Programação orientada a objetos: encapsulamento, classes, objetos, métodos, a
 <td>Qui</td>
 <td><ul>
 <li>
-Programação orientada a objetos: herança. 
+Programação orientada a objetos: herança (<a href="https://docs.google.com/presentation/d/17A4kOOfRea8S4XgsnqXznBST27T6mbmj9HA2bUDkS-8/edit?usp=sharingg">slides</a>). 
 </li>
 <li>
  <a href="praticas/java05">Quinta prática com Java</a>.
