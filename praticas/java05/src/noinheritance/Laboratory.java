@@ -31,22 +31,32 @@ public class Laboratory {
   }
   
   public ArrayList<String> getContactInfos() {
-    // COMPLETE-ME
-    // Construa um ArrayList<String> contendo informações de contato (ContactInfo)
-    // de cada um dos estudantes e professores
-    
+    ArrayList<String> contact = new ArrayList<String>();
+    for (Student s: students) {
+      contact.add(s.getContactInfo());
+    }
+    for (Professor p: professors) {
+      contact.add(p.getContactInfo());
+    }
+    return contact;
   }
 
   public boolean userExists(String userId) {
-    // COMPLETE-ME
-    // Verifique se existe o userId na lista de estudantes ou de professores
-    
+    for (Student s: students) {
+      if (s.getUserId() == userId) {
+        return true;
+      }
+    }
+    for (Professor p: professors) {
+      if (p.getUserId() == userId) {
+        return true;
+      }
+    }
+    return false;
   }
 
   public int countMembers() {
-    // COMPLETE-ME
-    // Retorne o total de membros do laboratório (estudantes e professores)
-    
+    return students.size() + professors.size();
   }
 
 
