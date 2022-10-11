@@ -135,7 +135,7 @@ Programação orientada a objetos: herança (<a href="https://docs.google.com/pr
 <td>11/10/2022</td>
 <td>Ter</td>
 <td><ul>
-<li>Quiz sobre POO em Java.
+<li><a href="https://quizizz.com/join?gc=28422371">Quiz</a> sobre POO em Java.
 </li>
 <li>
  <a href="praticas/java06">Sexta prática com Java</a>.
