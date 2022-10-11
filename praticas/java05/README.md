@@ -11,11 +11,11 @@ Essas redundâncias podem ser evitadas usando **herança**! Assim, o código fic
 
 Nesta prática, você vai refatorar o código - isto é, reescrevê-lo, sem alterar seu resultado. Agora você vai usar **herança**.
 
-## *Peer programming*
+~~## *Peer programming*~~
 
-Como sempre, você vai trabalhar em dupla. Cada dupla vai produzir uma solução, mas a entrega será individual. 
+~~Como sempre, você vai trabalhar em dupla. Cada dupla vai produzir uma solução, mas a entrega será individual.~~
 
-Sorteio de duplas: vamos executar este programa: https://github.com/Argschadt/formar-grupos
+~~Sorteio de duplas: vamos executar este programa: https://github.com/Argschadt/formar-grupos~~
 
 <p align="right"><a href="instructions/README01.md">Vamos adiante! >></a> </p>
 
