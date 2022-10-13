@@ -6,7 +6,7 @@ Nesta prática, você vai estender uma classe que representa uma "tartaruga virt
 
 Como sempre, você vai trabalhar em dupla. Cada dupla vai produzir uma solução, mas a entrega será individual. 
 
-Sorteio de duplas: vamos executar este programa: https://github.com/MichaelCStrahl/create-groups (lista de nomes [aqui](../java02/src/ParaGroups.java))
+Sorteio de duplas: vamos executar um destes programas: https://github.com/MichaelCStrahl/create-groups ou https://github.com/Argschadt/formar-grupos ou https://github.com/gabriel-caetano/group-generator ou https://github.com/eduardogeh/sorteioGrupos (lista de nomes [aqui](../java02/src/ParaGroups.java))
 
 <p align="right"><a href="instructions/README01.md">Vamos adiante! >></a> </p>
 
