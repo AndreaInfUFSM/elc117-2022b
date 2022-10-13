@@ -143,6 +143,17 @@ Programação orientada a objetos: herança (<a href="https://docs.google.com/pr
 </ul></td>
 </tr>
 
+<tr>
+<td align="right">9</td>
+<td>13/10/2022</td>
+<td>Qui</td>
+<td><ul>
+
+<li>
+ <a href="praticas/java07">Sétima prática com Java</a>.
+</li>
+</ul></td>
+</tr>
 
 </tbody>
 </table>
