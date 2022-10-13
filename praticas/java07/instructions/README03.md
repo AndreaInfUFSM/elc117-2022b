@@ -13,14 +13,14 @@
 
 Os seguintes métodos definem o comportamento da tartaruga:
    - `forward(d)` -- move `d` unidades para frente na direção corrente
-    - `back(d)` -- move `d` unidades para trás
-    - `moveTo(x,y)` -- move a tartaruga diretamente para o ponto `(x,y)`, sem mudar a direção
-    - ``moveBy(x,y)` -- move `x` unidades horizontalmente e `y` unidades verticalmente a partir da posição corrente, sem mudar a direção da tartaruga
-    - `turn(ang)` -- rotaciona a tartaruga em `ang` graus (no sentido horário se `ang` for positivo, ou anti-horário se `ang` for negativo
-    - `face(ang)` -- aponta a tartaruga na direção dada por `ang` graus, sendo que o valor `0` (zero) equivale a apontar para a direita (na direção positiva do eixo x)
-    - `reset()` -- reseta os atributos da tartaruga aos seus valores originais
-    - `setDelay(milliseconds)` -- seta um delay após cada movimento da tartaruga 
-    - `pause(seconds)` -- pausa a tartaruga por um tempo adicional que se soma ao delay
+   - `back(d)` -- move `d` unidades para trás
+   - `moveTo(x,y)` -- move a tartaruga diretamente para o ponto `(x,y)`, sem mudar a direção
+   - ``moveBy(x,y)` -- move `x` unidades horizontalmente e `y` unidades verticalmente a partir da posição corrente, sem mudar a direção da tartaruga
+   - `turn(ang)` -- rotaciona a tartaruga em `ang` graus (no sentido horário se `ang` for positivo, ou anti-horário se `ang` for negativo
+   - `face(ang)` -- aponta a tartaruga na direção dada por `ang` graus, sendo que o valor `0` (zero) equivale a apontar para a direita (na direção positiva do eixo x)
+   - `reset()` -- reseta os atributos da tartaruga aos seus valores originais
+   - `setDelay(milliseconds)` -- seta um delay após cada movimento da tartaruga 
+   - `pause(seconds)` -- pausa a tartaruga por um tempo adicional que se soma ao delay
     
 Além disso, a tartaruga tem uma caneta que pode ser manipulada com os seguintes métodos:
 
