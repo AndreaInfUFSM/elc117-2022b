@@ -159,6 +159,7 @@ Programação orientada a objetos: herança (<a href="https://docs.google.com/pr
 <td>17/10/2022</td>
 <td>Ter</td>
 <td><ul>
+<li><a href="https://quizizz.com/join?gc=58906899">Quiz</a> sobre POO em Java.</li>
 <li>
 Programação orientada a objetos: polimorfismo (<a href="https://docs.google.com/presentation/d/1SMp1hstbdswQ5i1KQ4yO1tj4wDTVpKhQP_8eBnmNI8Q/edit?usp=sharing">slides</a>). 
 </li>
