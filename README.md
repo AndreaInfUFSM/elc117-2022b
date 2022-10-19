@@ -189,12 +189,7 @@ Avaliação final (exame): 07/02/2023
 
 ## Bibliografia
 
-## OO / Java
- - Ralph Morelli, Ralph Walde, Beryl Hoffman. [Java, Java, Java: Object-Oriented Problem Solving](https://runestone.academy/ns/books/published/javajavajava/book-1.html)  
-   - [2.4 Class Definition](https://runestone.academy/ns/books/published/javajavajava/sec-classdef.html)  
-     Seção sobre definição de classes, com exemplos e exercícios
- - Alura. [Java e Orientação a Objetos](https://www.alura.com.br/apostila-java-orientacao-objetos)  
-   Apostila gratuita.
+
 
 ## Geral
 
@@ -202,3 +197,11 @@ Avaliação final (exame): 07/02/2023
  - Bruce A. Tate. [Seven Languages in Seven Weeks: A Pragmatic Guide to Learning Programming Languages](https://www.semanticscholar.org/paper/Seven-Languages-in-Seven-Weeks%3A-A-Pragmatic-Guide-Tate/8ab7286cc9e93b11bf783d4ba1d3ddc14630d202). 
  - Outros materiais de referência indicados nas aulas.
 <p align="right">(<a href="#readme-top">início</a>)</p>
+
+## OO / Java
+ - Ralph Morelli, Ralph Walde, Beryl Hoffman. [Java, Java, Java: Object-Oriented Problem Solving](https://runestone.academy/ns/books/published/javajavajava/book-1.html)  
+   - [2.4 Class Definition](https://runestone.academy/ns/books/published/javajavajava/sec-classdef.html)  
+     Seção sobre definição de classes, com exemplos e exercícios
+ - Alura. [Java e Orientação a Objetos](https://www.alura.com.br/apostila-java-orientacao-objetos)  
+   Apostila gratuita.
+ - University of Helsinki. [Java Programming - A free online course on learning Java](https://java-programming.mooc.fi/)
