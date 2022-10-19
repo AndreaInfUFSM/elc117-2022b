@@ -156,7 +156,7 @@ Programação orientada a objetos: herança (<a href="https://docs.google.com/pr
 
 <tr>
 <td align="right">10</td>
-<td>17/10/2022</td>
+<td>18/10/2022</td>
 <td>Ter</td>
 <td><ul>
 <li><a href="https://quizizz.com/join?gc=58906899">Quiz</a> sobre POO em Java.</li>
@@ -166,6 +166,20 @@ Programação orientada a objetos: polimorfismo (<a href="https://docs.google.co
 </ul></td>
 </tr>
   
+<tr>
+<td align="right">11</td>
+<td>20/10/2022</td>
+<td>Qui</td>
+<td><ul>
+<li>
+Classes abstratas e interfaces em Java (<a href="https://docs.google.com/presentation/d/1vWNhnXI12Q7KKJNNiy5TGAK0o46Q0tAw4LCgN2npJIo/edit?usp=sharing">slides</a>). 
+</li>
+<li>
+ <a href="praticas/java08">Missão (im)possível?</a>.
+</li>
+</ul></td>
+</tr>
+
 </tbody>
 </table>
 <p align="right">(<a href="#readme-top">início</a>)</p>

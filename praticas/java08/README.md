@@ -1,0 +1,10 @@
+# Prática: Missão (im)possível?
+
+Nesta prática, são fornecidos vários códigos em Java que empregam recursos da programação orientada a objetos.
+
+Você e sua dupla precisam estudá-los para completar "missões" que serão sorteadas em aula.
+Essas "missões" podem ser questões teóricas ou tarefas práticas. Por exemplo: "Quais os construtores definidos na classe X?", "Mostre para a turma como executar o código na pasta X", "Qual método será chamado na linha Y", "Adicione um construtor sem argumentos na classe Z", etc.
+
+
+
+
