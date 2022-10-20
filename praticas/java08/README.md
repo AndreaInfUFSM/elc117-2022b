@@ -21,4 +21,6 @@ Fontes: [src/doubledispatch](src/doubledispatch)
 ----
 Sorteio de duplas com um destes programas: https://github.com/MichaelCStrahl/create-groups ou https://github.com/Argschadt/formar-grupos ou https://github.com/gabriel-caetano/group-generator ou https://github.com/eduardogeh/sorteioGrupos (lista de nomes [aqui](../java02/src/ParaGroups.java))
 
+<!-- https://script.google.com/macros/s/AKfycby-XhtamWS5gLb_4FXFSMvAKMeXskcZQJxp468WQZSDDwWx_0YVo2VccixVPWDCGUOo/exec?action=get -->
+
 
