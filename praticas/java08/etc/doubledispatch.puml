@@ -1,0 +1,69 @@
+@startuml
+package  {
+  class App {
+    + main(String[] args) : void {static}
+  }
+  class SpaceStationIss {
+    + SpaceStationIss(int left, int top, int right, int bottom)
+    + collision(GameObject gameObject) : void
+  }
+  class Meteoroid {
+    + Meteoroid(int left, int top, int right, int bottom)
+    + collision(GameObject gameObject) : void
+    + collisionResolve(FlamingAsteroid asteroid) : void
+    + collisionResolve(Meteoroid meteoroid) : void
+    + collisionResolve(SpaceStationMir mir) : void
+    + collisionResolve(SpaceStationIss iss) : void
+  }
+  class Rectangle {
+    - left : int
+    - top : int
+    - right : int
+    - bottom : int
+    + Rectangle(int left, int top, int right, int bottom)
+    + getLeft() : int
+    + getTop() : int
+    + getRight() : int
+    + getBottom() : int
+    ~ intersectsWith(Rectangle r) : boolean
+    + toString() : String
+  }
+  abstract class GameObject {
+    - damaged : boolean
+    - onFire : boolean
+    + GameObject(int left, int top, int right, int bottom)
+    + toString() : String
+    + isOnFire() : boolean
+    + setOnFire(boolean onFire) : void
+    + isDamaged() : boolean
+    + setDamaged(boolean damaged) : void
+    + collision(GameObject gameObject) : void {abstract}
+    + collisionResolve(FlamingAsteroid asteroid) : void {abstract}
+    + collisionResolve(Meteoroid meteoroid) : void {abstract}
+    + collisionResolve(SpaceStationMir mir) : void {abstract}
+    + collisionResolve(SpaceStationIss iss) : void {abstract}
+  }
+  class FlamingAsteroid {
+    + FlamingAsteroid(int left, int top, int right, int bottom)
+    + collision(GameObject gameObject) : void
+  }
+  class SpaceStationMir {
+    + SpaceStationMir(int left, int top, int right, int bottom)
+    + collision(GameObject gameObject) : void
+    + collisionResolve(FlamingAsteroid asteroid) : void
+    + collisionResolve(Meteoroid meteoroid) : void
+    + collisionResolve(SpaceStationMir mir) : void
+    + collisionResolve(SpaceStationIss iss) : void
+  }
+}
+Meteoroid --|> GameObject : extends
+GameObject --|> Rectangle : extends
+FlamingAsteroid --|> Meteoroid : extends
+SpaceStationMir --|> GameObject : extends
+SpaceStationIss --|> SpaceStationMir : extends
+App <.. "*" GameObject : depends on
+App <.. Meteoroid : depends on
+App <.. FlamingAsteroid : depends on
+App <.. SpaceStationMir : depends on
+App <.. SpaceStationIss : depends on
+@enduml

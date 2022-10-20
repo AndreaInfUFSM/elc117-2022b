@@ -1,0 +1,27 @@
+@startuml
+package  {
+  abstract class AbstractPet {
+    - x : int
+    - y : int
+    - name : String
+    ~ AbstractPet(String name, int x, int y)
+    + doingSomething() : String {abstract}
+    + whereAreYou() : void
+  }
+  ~class Dog {
+    ~ Dog(String name, int x, int y)
+    + doingSomething() : String
+  }
+  ~class Cat {
+    ~ Cat(String name, int x, int y)
+    + doingSomething() : String
+  }
+  ~class AbstractPetTest {
+    + main(String[] args) : void {static}
+  }
+}
+Cat --|> AbstractPet 
+Dog --|> AbstractPet 
+AbstractPetTest <.. Cat : depends on
+AbstractPetTest <.. Dog : depends on
+@enduml

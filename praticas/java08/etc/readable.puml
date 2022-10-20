@@ -1,0 +1,42 @@
+@startuml
+package  {
+  class ReadingList {
+    + main(String[] args) : void {static}
+  }
+  class Printer {
+    + print(Readable readable) : void
+  }
+  class Ebook {
+    - name : String
+    - pages : ArrayList<String>
+    - pageNumber : int
+    + Ebook(String name, ArrayList<String> pages)
+    + getName() : String
+    + pages() : int
+    + read() : String
+    - nextPage() : void
+  }
+  class TextMessage {
+    - sender : String
+    - content : String
+    + TextMessage(String sender, String content)
+    + getSender() : String
+    + read() : String
+  }
+  class PrintingList {
+    + main(String[] args) : void {static}
+  }
+  interface Readable {
+    ~ read() : String
+  }
+}
+Ebook ..|> Readable : implements
+TextMessage ..|> Readable : implements
+ReadingList <.. Readable : depends on
+ReadingList <.. Ebook : depends on
+ReadingList <.. TextMessage : depends on
+PrintingList <.. Printer : depends on
+PrintingList <.. Ebook : depends on
+PrintingList <.. TextMessage : depends on
+Printer <.. Readable : depends on
+@enduml

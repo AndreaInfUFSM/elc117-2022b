@@ -6,5 +6,19 @@ Você e sua dupla precisam estudá-los para completar "missões" que serão sort
 Essas "missões" podem ser questões teóricas ou tarefas práticas. Por exemplo: "Quais os construtores definidos na classe X?", "Mostre para a turma como executar o código na pasta X", "Qual método será chamado na linha Y", "Adicione um construtor sem argumentos na classe Z", etc.
 
 
+# Códigos
+
+![abstractpet](etc/abstractpet.png)
+Fontes: [src/abstractpet](src/abstractpet)
+
+
+![readable](etc/readable.png)
+Fontes: [src/readable](src/readable)
+
+![doubledispatch](etc/doubledispatch.png)
+Fontes: [src/doubledispatch](src/doubledispatch)
+
+
+
 
 
