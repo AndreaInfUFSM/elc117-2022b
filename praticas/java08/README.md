@@ -18,7 +18,7 @@ Fontes: [src/readable](src/readable)
 ![doubledispatch](etc/doubledispatch.png)
 Fontes: [src/doubledispatch](src/doubledispatch)
 
-
-
+----
+Sorteio de duplas com um destes programas: https://github.com/MichaelCStrahl/create-groups ou https://github.com/Argschadt/formar-grupos ou https://github.com/gabriel-caetano/group-generator ou https://github.com/eduardogeh/sorteioGrupos (lista de nomes [aqui](../java02/src/ParaGroups.java))
 
 
