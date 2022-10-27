@@ -180,6 +180,33 @@ Classes abstratas e interfaces em Java (<a href="https://docs.google.com/present
 </ul></td>
 </tr>
 
+
+<tr>
+<td align="right">12</td>
+<td>26/10/2022</td>
+<td>Ter</td>
+<td><ul>
+<li><a href="https://pollev.com/free_text_polls/2ECFwkZnMMYPHtbYNSTmH/respond">Formulário</a> para coleta de sugestões de temas de trabalho.</li>
+<li>
+Formação dos grupos e definição do tema geral do trabalho de Programação Orientada a Objetos.
+</li>
+</ul></td>
+</tr>
+  
+<tr>
+<td align="right">13</td>
+<td>27/10/2022</td>
+<td>Qui</td>
+<td><ul>
+<li>
+<a href="https://forms.gle/V2j1oKK7PUiRcXCf9">Entrega</a> da especificações de cada trabalho.
+</li>
+<li>
+Desenvolvimento do trabalho, criação de <a href="https://classroom.github.com/a/H2hmTM4G">repositório</a> e primeiros commits.
+</li>
+</ul></td>
+</tr>
+
 </tbody>
 </table>
 <p align="right">(<a href="#readme-top">início</a>)</p>
@@ -194,7 +221,7 @@ A produção **coletiva** (peso 5 em cada bimestre) consistirá em projetos de p
 
 As produções serão examinadas a cada bimestre, compondo 2 momentos de avaliação parcial, nas seguintes datas:
 
-- 1o Bimestre: 01 e 03/11/2022
+- 1o Bimestre: ~~01 e 03/11/2022~~
 - 2o Bimestre: 24 e 25/01/2023
 
 Avaliação final (exame): 07/02/2023
