@@ -199,7 +199,7 @@ Formação dos grupos e definição do tema geral do trabalho de Programação O
 <td>Qui</td>
 <td><ul>
 <li>
-<a href="https://forms.gle/V2j1oKK7PUiRcXCf9">Entrega</a> da especificações de cada trabalho.
+<a href="https://forms.gle/V2j1oKK7PUiRcXCf9">Entrega</a> das especificações de cada trabalho.
 </li>
 <li>
 Desenvolvimento do trabalho, criação de <a href="https://classroom.github.com/a/H2hmTM4G">repositório</a> e primeiros commits.
