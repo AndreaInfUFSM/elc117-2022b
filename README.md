@@ -183,7 +183,7 @@ Classes abstratas e interfaces em Java (<a href="https://docs.google.com/present
 
 <tr>
 <td align="right">12</td>
-<td>26/10/2022</td>
+<td>25/10/2022</td>
 <td>Ter</td>
 <td><ul>
 <li><a href="https://pollev.com/free_text_polls/2ECFwkZnMMYPHtbYNSTmH/respond">Formulário</a> para coleta de sugestões de temas de trabalho.</li>
