@@ -207,6 +207,23 @@ Desenvolvimento do trabalho, criação de <a href="https://classroom.github.com/
 </ul></td>
 </tr>
 
+
+<tr>
+<td align="right">1</td>
+<td>01/11/2022</td>
+<td>Ter</td>
+<td><ul>
+<li>Programação concorrente (<a href="https://docs.google.com/presentation/d/1R1E1_Tn5F6bELJZFZwYnX4_p5MDQk_bDk7wgpkHB9NI/edit?usp=sharing">slides</a>).</li>
+<li> 
+Concorrência em Java (<a href="https://docs.google.com/presentation/d/1SSLdhn4rjIoest2s1FSeAYJuwrjdMOWR_zkWRM_yajQ/edit?usp=sharing">slides</a>).</li>
+<li>
+ <a href="praticas/java/java09">Prática de programação concorrente com Java</a>.
+</li>
+
+
+</ul></td>
+</tr>
+
 </tbody>
 </table>
 <p align="right">(<a href="#readme-top">início</a>)</p>
