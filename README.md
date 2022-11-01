@@ -217,7 +217,7 @@ Desenvolvimento do trabalho, criação de <a href="https://classroom.github.com/
 <li> 
 Concorrência em Java (<a href="https://docs.google.com/presentation/d/1SSLdhn4rjIoest2s1FSeAYJuwrjdMOWR_zkWRM_yajQ/edit?usp=sharing">slides</a>).</li>
 <li>
- <a href="praticas/java/java09">Prática de programação concorrente com Java</a>.
+ <a href="praticas/java09">Prática de programação concorrente com Java</a>.
 </li>
 
 
