@@ -244,7 +244,11 @@ Veja também este texto sobre o brasileiro que criou a linguagem Elixir: https:/
 <td>08/11/2022</td>
 <td>Ter</td>
 <td>
-<a href="https://www.ufsm.br/pro-reitorias/prpgp/jai/eventos/jai-2022/#programacao">Jornada Acadêmica Integrada da UFSM</a>
+<ul>
+  <li>
+    <a href="https://www.ufsm.br/pro-reitorias/prpgp/jai/eventos/jai-2022/#programacao">Jornada Acadêmica Integrada da UFSM</a>
+  </li>
+</ul>
 </td>
 </tr>
 
@@ -253,7 +257,11 @@ Veja também este texto sobre o brasileiro que criou a linguagem Elixir: https:/
 <td>10/11/2022</td>
 <td>Qui</td>
 <td>
+<ul>
+<li>
 <a href="https://www.ufsm.br/pro-reitorias/prpgp/jai/eventos/jai-2022/#programacao">Jornada Acadêmica Integrada da UFSM</a>
+</li>
+</ul>
 </td>
 </tr>
 
@@ -262,7 +270,11 @@ Veja também este texto sobre o brasileiro que criou a linguagem Elixir: https:/
 <td>15/11/2022</td>
 <td>Ter</td>
 <td>
+<ul>
+<li>
 Feriado
+</li>
+</ul>
 </td>
 </tr>
 
@@ -271,7 +283,11 @@ Feriado
 <td>17/11/2022</td>
 <td>Qui</td>
 <td>
+<ul>
+<li>
 SAINF: <a href="https://www.instagram.com/sainf_ufsm/">https://www.instagram.com/sainf_ufsm/</a>
+</li>
+</ul>
 </td>
 </tr>
 
