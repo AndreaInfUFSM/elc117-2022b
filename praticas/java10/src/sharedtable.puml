@@ -1,0 +1,29 @@
+@startuml
+package  {
+  class Runner {
+    - table : SharedTable
+    - count : int
+    - c : char
+    ~ Runner(SharedTable table, int count, char c)
+    + run() : void
+  }
+  class SharedThreadRace {
+    - TURNS : int {static}
+    - MARKERS : char {static}
+    + main(String[] args) : void {static}
+  }
+  class SharedTable {
+    - table : Character
+    - index : int
+    + SharedTable(int n)
+    + addMark(char c) : void
+    + countOccurrences(char c) : int
+    + oldCountOccurrences(char c) : int
+    - spendSomeTime() : void
+    + toString() : String
+  }
+}
+Runner --> SharedTable : has-a
+SharedThreadRace ..> SharedTable : depends on
+SharedThreadRace ..> Runner : depends on
+@enduml
