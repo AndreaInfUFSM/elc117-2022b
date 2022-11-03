@@ -232,6 +232,9 @@ Concorrência em Java (<a href="https://docs.google.com/presentation/d/1SSLdhn4r
 <li>
  <a href="praticas/java10">Prática de programação concorrente com Java</a>.
 </li>
+<li>
+Veja também este texto sobre o brasileiro que criou a linguagem Elixir: https://community.revelo.com/de-mantenedor-rails-a-criador-da-linguagem-de-programacao-elixir/ (o que será que tem a ver com concorrência?)
+</li>
 
 </ul></td>
 </tr>
