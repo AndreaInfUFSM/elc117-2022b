@@ -1,0 +1,36 @@
+@startuml
+package  {
+  ~class Conta {
+    - saldo : float
+    + Conta()
+    + Conta(float inicial)
+    + getSaldo() : float
+    + deposita(float valor) : void
+    + retira(float valor) : void
+  }
+  ~class ThreadDeposita {
+    - c : Conta
+    - n : int
+    - val : float
+    ~ ThreadDeposita(Conta c, int n, float val)
+    ~ getTotal() : float
+    + run() : void
+  }
+  ~class ThreadRetira {
+    - c : Conta
+    - n : int
+    - val : float
+    ~ ThreadRetira(Conta c, int n, float val)
+    ~ getTotal() : float
+    + run() : void
+  }
+  ~class OperacoesBancarias {
+    + main(String[] args) : void {static}
+  }
+}
+ThreadDeposita --> Conta : has-a
+ThreadRetira --> Conta : has-a
+OperacoesBancarias ..> Conta : depends on
+OperacoesBancarias ..> ThreadRetira : depends on
+OperacoesBancarias ..> ThreadDeposita : depends on
+@enduml
