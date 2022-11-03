@@ -52,7 +52,7 @@
 <li> 
 Visão geral dos paradigmas de programação: 
 <a href="https://docs.google.com/presentation/d/1prjJ7oIiRd6TK1zobAwmyyS1qj3zSBfxDNt6oyTt-Tg/edit?usp=sharing">conceitos</a> e
-<a href="https://docs.google.com/presentation/d/1u3tt2uiZ_dIroTTjtPWX4QILDFwV2VITF9R0Cz9TCyM/edit?usp=sharing">resultados do questionário</a>. 
+<a href="https://docs.google.com/presentation/d/1u3tt2uiZ_dIroTTjtPWX4QILDFwV2VITF9R0Cz9TCyM/edit?usp=sharing">resultados</a> do <a href="https://docs.google.com/forms/d/e/1FAIpQLSf02gNKeXoy2L-pckmx73-7UmYUFK-cr6vVA-TrOMqUtgQx8w/viewform?usp=sf_link">questionário.</a>
 </li>
 </ul></td>
 </tr>
