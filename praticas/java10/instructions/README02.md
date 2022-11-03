@@ -3,7 +3,7 @@
 ## Operações Bancárias
 
 
-![sharedaccount](etc/sharedaccount.png)
+![sharedaccount](../etc/sharedaccount.png)
 
 1. Baixe o programa [OperacoesBancarias.java](../src/sharedaccount/OperacoesBancarias.java) e analise seu código. Veja que foi usada a palavra-chave `synchronized`, explicada nos slides. Execute o programa algumas vezes e verifique se o resultado é sempre correto (com saldo inicial de 100, 10 depósitos de 100 e 5 retiradas de 50, o saldo final deve ser de 850).
 
