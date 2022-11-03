@@ -230,7 +230,7 @@ Concorrência em Java (<a href="https://docs.google.com/presentation/d/1SSLdhn4r
 </li>
 
 <li>
- <a href="praticas/jav10">Prática de programação concorrente com Java</a>.
+ <a href="praticas/java10">Prática de programação concorrente com Java</a>.
 </li>
 
 </ul></td>
