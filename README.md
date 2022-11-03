@@ -221,6 +221,18 @@ Concorrência em Java (<a href="https://docs.google.com/presentation/d/1SSLdhn4r
 </li>
 
 
+<tr>
+<td align="right">15</td>
+<td>03/11/2022</td>
+<td>Qui</td>
+<td><ul>
+<li>Problemas de programação concorrente: sincronização (<a href="https://docs.google.com/presentation/d/16Vhcy8NZJ-se4xA4-b0udZx35OLdilZ4xPLnMXLQ8pw/edit?usp=sharing">slides</a>).
+</li>
+
+<li>
+ <a href="praticas/jav10">Prática de programação concorrente com Java</a>.
+</li>
+
 </ul></td>
 </tr>
 
@@ -230,6 +242,14 @@ Concorrência em Java (<a href="https://docs.google.com/presentation/d/1SSLdhn4r
 
 ## Avaliações
 
+## Projeto de Programação Orientada a Objetos
+
+- Commit inicial: 27/10/2022
+- Primeira entrega: 07/11/2022
+- Segunda entrega: 14/11/2022
+
+## Como será a avaliação?
+
 A avaliação irá considerar a produção **individual** e **coletiva** a cada bimestre.
 
 A produção **individual** (peso 5 em cada bimestre) consistirá na entrega de exercícios/problemas resolvidos e atividades personalizadas, estabelecidas previamente entre estudantes e professora.
@@ -238,7 +258,7 @@ A produção **coletiva** (peso 5 em cada bimestre) consistirá em projetos de p
 
 As produções serão examinadas a cada bimestre, compondo 2 momentos de avaliação parcial, nas seguintes datas:
 
-- 1o Bimestre: ~~01 e 03/11/2022~~
+- 1o Bimestre: ~~01 e 03/11/2022~~ (a definir)
 - 2o Bimestre: 24 e 25/01/2023
 
 Avaliação final (exame): 07/02/2023
