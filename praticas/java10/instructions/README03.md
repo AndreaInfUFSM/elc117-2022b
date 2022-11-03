@@ -3,6 +3,8 @@
 
 ## Tabela Compartilhada
 
+![sharedtable](../etc/sharedtable.png)
+
 
 1. Baixe o código da pasta [sharedtable](../src/sharedtable), que contém os arquivos para os próximos exercícios (isso corresponde ao exemplo no final dos slides).
 
