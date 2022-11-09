@@ -1,7 +1,7 @@
 #!/bin/bash
 
 err=0
-if find . -type d -name "zzzsharedaccount" -exec false {} +; then   
+if find . -type d -name "sharedaccount" -exec false {} +; then   
   echo 'sharedaccount folder not found'
   err=1
 fi
