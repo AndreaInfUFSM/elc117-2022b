@@ -15,6 +15,7 @@ function findandrun {
     javac $srcfile
     cd $srcdir
     java $classfile
+    cd
   fi
 }
 
