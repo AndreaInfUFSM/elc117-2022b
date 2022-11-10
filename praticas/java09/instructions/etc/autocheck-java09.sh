@@ -13,9 +13,10 @@ function findandrun {
     classfile=`basename $srcfile .java`
     wc -l $srcfile
     javac $srcfile
+    currdir=`pwd`
     cd $srcdir
     java $classfile
-    cd
+    cd $currdir
   fi
 }
 
