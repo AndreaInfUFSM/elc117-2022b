@@ -21,7 +21,7 @@ function findandrun {
 }
 
 findandrun BetterThreadRace.java
-findandrun AnotherThreadrace.java
+findandrun AnotherThreadRace.java
 
 if [ $err -eq 1 ]; then
   exit 1
