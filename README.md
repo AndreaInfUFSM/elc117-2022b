@@ -291,11 +291,25 @@ SAINF: <a href="https://www.instagram.com/sainf_ufsm/">https://www.instagram.com
 </td>
 </tr>
 
+<tr>
+<td align="right">16</td>
+<td>22/11/2022</td>
+<td>Ter</td>
+<td><ul>
+<li><a href="https://docs.google.com/presentation/d/1frPWgR_4Ywx4KCJgCcWWCuS5apiAw6KnjVMSWp9hCOY/edit?usp=sharing">Avaliação do projeto de orientação a objetos</a>).
+</li>
+
+</ul></td>
+</tr>
+
 </tbody>
 </table>
 <p align="right">(<a href="#readme-top">início</a>)</p>
 
 ## Avaliações
+
+## Produção individual personalizada
+- [Programação orientada a objetos / concorrente](trabalhos/perso1)
 
 ## Projeto de Programação Orientada a Objetos
 
