@@ -35,7 +35,7 @@ Se você achou os requisitos muito amplos e está estranhando ter tanta liberdad
   1. Escolha alguma biblioteca/framework em Java, selecione alguns tutoriais, execute exemplos e combine recursos para criar um código adaptado a seus interesses.   
   Não vale se guiar por apenas um tutorial ou implesmente entregar algum código de exemplo que você encontrar :smiley:.
   2. Produza um material explicativo sobre algum recurso de Java que não tenha sido visto na disciplina, ou que você queira entender melhor. Vale escolher um tópico e resolver exercícios, produzir alguma ilustração, texto, vídeo sobre o tópico, etc. Não vale simplesmente reproduzir algum tutorial que você encontrar por aí, ou repetir algo que já foi feito sem acrescentar nada.
-  3. Escolha algum projeto open-source de grande porte desenvolvido em Java, consulte a documentação para desenvolvedores, faça seu próprio build/deploy, examine o código, identifique práticas de orientação a objetos utilizadas, insira alguma modificação no código (mesmo que seja um simples pring :smiley:).
+  3. Escolha algum projeto open-source de grande porte desenvolvido em Java, consulte a documentação para desenvolvedores, faça seu próprio build/deploy, examine o código, identifique práticas de orientação a objetos utilizadas, insira alguma modificação no código (mesmo que seja um simples print :smiley:).
 
 - Você não quer mais ouvir falar de Java? Tudo bem, aqui vão algumas ideias:
   1. Estude como os paradigmas orientado a objetos e/ou concorrenteestão presentes em alguma linguagem à sua escolha. Teste exemplos, siga tutoriais ou faça exercícios, lembrando de comentar o que você encontrou de semelhança/diferença com o que foi visto na disciplina. 
