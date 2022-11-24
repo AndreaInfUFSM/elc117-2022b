@@ -298,9 +298,20 @@ SAINF: <a href="https://www.instagram.com/sainf_ufsm/">https://www.instagram.com
 <td><ul>
 <li><a href="https://docs.google.com/presentation/d/1frPWgR_4Ywx4KCJgCcWWCuS5apiAw6KnjVMSWp9hCOY/edit?usp=sharing">Avaliação do projeto de orientação a objetos</a>.
 </li>
-
 </ul></td>
 </tr>
+
+
+<tr>
+<td align="right">17</td>
+<td>24/11/2022</td>
+<td>Qui</td>
+<td><ul>
+<li>Avaliação do projeto de orientação a objetos.</li>
+<li><a href="trabalhos/perso1">Produção individual personalizada - POO/Concorrente</a>.</li>
+</ul></td>
+</tr>
+
 
 </tbody>
 </table>
