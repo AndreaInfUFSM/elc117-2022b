@@ -312,8 +312,8 @@ Aqui você vai conhecer exemplos usando Java com MongoDB - uma dupla que dá um 
 Um programa em execução pode criar muitos objetos. 
 
 Por exemplo, imagine instâncias de uma classe `Song`, representando músicas. Esta classe pode definir alguns atributos, por exemplo:
--  `artist` (nome do cantor/cantora/grupo) e 
-- `name` (nome da música). 
+- `artist` (nome do cantor/cantora/grupo) e 
+- `name` (nome da música).  
 
 Cada objeto `Song` terá valores para `artist` e `name` - por exemplo `Coldplay` e `Clocks` (pense aqui em outros valores baseados nas suas músicas favoritas). 
 
