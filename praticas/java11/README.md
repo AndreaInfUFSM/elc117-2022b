@@ -332,6 +332,7 @@ Este banco de dados NoSQL trabalha com coleções de "documentos".
 Um **documento** é semelhante a um objeto com seus atributos. 
 
 Por exemplo, podemos ter uma coleção  contendo um documento com os seguintes campos e valores referentes a uma música:
+
 * `artist: Coldplay` 
 * `name: Clocks`, 
 
@@ -374,7 +375,7 @@ Todo objeto da classe `Song` terá os seguintes atributos:
 
 ### Obtenha o projeto
 
-O çódigo para esta prática está em [src/songs](src/songs).
+O çódigo para esta prática está em https://github.com/AndreaInfUFSM/elc117-2022b/tree/main/praticas/java11/src/songs
 
 
 Obtenha o código como nas outras práticas, atualizando seu fork do repositório da disciplina (ou clonando todo o repositório).
@@ -403,7 +404,9 @@ No Windows:
 
 ### Altere o código do primeiro exemplo
 
-Examine o código em [src/songs/example1/src/main/java/songs/Example1.java].  Note que não temos uma classe `Song` neste exemplo.
+Examine o código em https://github.com/AndreaInfUFSM/elc117-2022b/blob/main/praticas/java11/src/songs/example1/src/main/java/songs/Example1.java
+
+Note que não temos uma classe `Song` neste exemplo.
 
 O código contém uma parte comentada que cria um documento (representando uma música) e o insere no banco. 
 
@@ -414,9 +417,10 @@ Descomente esta parte, altere os dados conforme seu gosto musical :-) e execute 
 
 O segundo exemplo tem um código um pouco mais longo e organizado em mais classes:
 
-* [`class Example2`](src/songs/example2/src/main/java/songs/Example2.java): contém o método `main`
-* [`class Song`](src/songs/example2/src/main/java/songs/Song.java): representa uma música
-* [`class SongCrudRepository`](src/songs/example2/src/main/java/songs/SongCrudRepository.java): intermedia operações com o banco de dados para objetos da classe Song (CRUD = create-read-update-delete)
+
+* [`class Example2`](https://github.com/AndreaInfUFSM/elc117-2022b/blob/main/praticas/java11/src/songs/example2/src/main/java/songs/Example2.java): contém o método `main`
+* [`class Song`](https://github.com/AndreaInfUFSM/elc117-2022b/blob/main/praticas/java11/src/songs/example2/src/main/java/songs/Song.java): representa uma música
+* [`class SongCrudRepository`](https://github.com/AndreaInfUFSM/elc117-2022b/blob/main/praticas/java11/src/songs/example2/src/main/java/songs/SongCrudRepository.java): intermedia operações com o banco de dados para objetos da classe Song (CRUD = create-read-update-delete)
 
 Neste exemplo, usamos mais recursos do *driver* MongoDB para mapear objetos no banco de dados, conforme esta documentação: https://www.mongodb.com/developer/languages/java/java-mapping-pojos/
 
