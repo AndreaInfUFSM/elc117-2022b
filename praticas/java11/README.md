@@ -414,6 +414,10 @@ O código contém uma parte comentada que cria um documento (representando uma m
 
 Descomente esta parte, altere os dados conforme seu gosto musical :-) e execute o projeto novamente.
 
+```
+./gradlew example1:run
+```
+
 
 ### Examine o segundo exemplo do projeto
 
@@ -429,6 +433,7 @@ Neste exemplo, usamos mais recursos do *driver* MongoDB para mapear objetos no b
 ### Execute o segundo exemplo do projeto
 
 Para executar o segundo exemplo, alteramos o comando para:
+
 ```
 ./gradlew example2:run
 ```
