@@ -441,8 +441,8 @@ Veja que o código tem várias partes comentadas.
 Altere o código para:
 
 1. Inserir uma música que você goste 
-2. Mostrar os nomes de todos os usuários que inseriram músicas no banco
-3. Alterar tags de uma música
+2. Mostrar os nomes de todos os usuários que inseriram músicas no banco 
+3. Alterar tags de uma música 
 
 
 
