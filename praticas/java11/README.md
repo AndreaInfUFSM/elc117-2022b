@@ -375,7 +375,7 @@ Todo objeto da classe `Song` terá os seguintes atributos:
 
 ### Obtenha o projeto
 
-O çódigo para esta prática está em https://github.com/AndreaInfUFSM/elc117-2022b/tree/main/praticas/java11/src/songs
+O çódigo para esta prática está em [praticas/java11/src/songs](https://github.com/AndreaInfUFSM/elc117-2022b/tree/main/praticas/java11/src/songs).
 
 
 Obtenha o código como nas outras práticas, atualizando seu fork do repositório da disciplina (ou clonando todo o repositório).
@@ -391,11 +391,13 @@ Vamos usar linha de comando e usar o *Gradle wrapper*, um script que copia as de
 Este script tem que ser chamado **dentro** da pasta `songs` que contém o projeto. Abra um terminal nesta pasta e execute o script conforme os exemplos abaixo.
 
 No Linux:
+
 ```
 ./gradlew example1:run
 ```
 
 No Windows:
+
 ```
 .\gradlew.bat example1:run
 ```
@@ -404,7 +406,7 @@ No Windows:
 
 ### Altere o código do primeiro exemplo
 
-Examine o código em https://github.com/AndreaInfUFSM/elc117-2022b/blob/main/praticas/java11/src/songs/example1/src/main/java/songs/Example1.java
+Examine o código em [Example1.java](https://github.com/AndreaInfUFSM/elc117-2022b/blob/main/praticas/java11/src/songs/example1/src/main/java/songs/Example1.java).
 
 Note que não temos uma classe `Song` neste exemplo.
 
