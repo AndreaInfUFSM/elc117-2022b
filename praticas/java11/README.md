@@ -303,7 +303,7 @@ CodeRunner.send(
 
 Programação orientada a objetos (OOP) e bancos de dados (DB) andam juntos em muitos casos. 
 
-Aqui você vai conhecer exemplos usando Java com MongoDB - uma dupla que dá um bom match! :-)
+Aqui você vai conhecer exemplos usando Java com MongoDB - uma dupla que dá um bom match! 😃
 
 
 ## Persistência de objetos
@@ -312,6 +312,7 @@ Aqui você vai conhecer exemplos usando Java com MongoDB - uma dupla que dá um 
 Um programa em execução pode criar muitos objetos. 
 
 Por exemplo, imagine instâncias de uma classe `Song`, representando músicas. Esta classe pode definir alguns atributos, por exemplo:
+
 - `artist` (nome do cantor/cantora/grupo) e 
 - `name` (nome da música).  
 
