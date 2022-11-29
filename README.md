@@ -313,6 +313,15 @@ SAINF: <a href="https://www.instagram.com/sainf_ufsm/">https://www.instagram.com
 </tr>
 
 
+<tr>
+<td align="right">18</td>
+<td>29/11/2022</td>
+<td>Ter</td>
+<td><ul>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/java11/README.md#1">Prática: programação orientada a objetos e banco de dados</a>.</li>
+</ul></td>
+</tr>
+
 </tbody>
 </table>
 <p align="right">(<a href="#readme-top">início</a>)</p>
