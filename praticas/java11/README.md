@@ -313,8 +313,8 @@ Um programa em execução pode criar muitos objetos.
 
 Por exemplo, imagine instâncias de uma classe `Song`, representando músicas. Esta classe pode definir alguns atributos, por exemplo:
 
-- `artist` (nome do cantor/cantora/grupo) e 
-- `name` (nome da música).  
+* `artist` (nome do cantor/cantora/grupo) e 
+* `name` (nome da música).  
 
 Cada objeto `Song` terá valores para `artist` e `name` - por exemplo `Coldplay` e `Clocks` (pense aqui em outros valores baseados nas suas músicas favoritas). 
 
@@ -332,8 +332,8 @@ Este banco de dados NoSQL trabalha com coleções de "documentos".
 Um **documento** é semelhante a um objeto com seus atributos. 
 
 Por exemplo, podemos ter uma coleção  contendo um documento com os seguintes campos e valores referentes a uma música:
-- `artist: Coldplay` 
-- `name: Clocks`, 
+* `artist: Coldplay` 
+* `name: Clocks`, 
 
 Um banco de dados MongoDB  pode ter várias **coleções** - por exemplo, uma coleção com dados de usuários e outra com dados de músicas.
 
@@ -352,10 +352,10 @@ Para usar MongoDB com Java, precisamos do seguinte:
 
 Alguns links importantes:
 
-- Java and MongoDB: informações gerais
+* Java and MongoDB: informações gerais
   https://www.mongodb.com/languages/java
 
-- Documentação: MongoDB Java Driver  
+* Documentação: MongoDB Java Driver  
   https://www.mongodb.com/docs/drivers/java/sync/current/
 
 
@@ -365,11 +365,11 @@ Alguns links importantes:
 Nesta prática, vamos trabalhar com uma classe `Song`, que representa músicas adicionadas no banco por colegas da turma.
 
 Todo objeto da classe `Song` terá os seguintes atributos:
-- `name`: nome da música
-- `artist`: nome do artista (cantor, cantora, grupo, etc.)
-- `url`: URL da música (trilha/track no Spotify, por exemplo)
-- `user`: nome do usuário que adicionou a música
-- `tags`: array de tags sobre a música (gênero musical, ou outras observações que o usuário quiser adicionar)
+* `name`: nome da música
+* `artist`: nome do artista (cantor, cantora, grupo, etc.)
+* `url`: URL da música (trilha/track no Spotify, por exemplo)
+* `user`: nome do usuário que adicionou a música
+* `tags`: array de tags sobre a música (gênero musical, ou outras observações que o usuário quiser adicionar)
 
 
 ### Obtenha o projeto
@@ -414,9 +414,9 @@ Descomente esta parte, altere os dados conforme seu gosto musical :-) e execute 
 
 O segundo exemplo tem um código um pouco mais longo e organizado em mais classes:
 
-- [`class Example2`](src/songs/example2/src/main/java/songs/Example2.java): contém o método `main`
-- [`class Song`](src/songs/example2/src/main/java/songs/Song.java): representa uma música
-- [`class SongCrudRepository`](src/songs/example2/src/main/java/songs/SongCrudRepository.java): intermedia operações com o banco de dados para objetos da classe Song (CRUD = create-read-update-delete)
+* [`class Example2`](src/songs/example2/src/main/java/songs/Example2.java): contém o método `main`
+* [`class Song`](src/songs/example2/src/main/java/songs/Song.java): representa uma música
+* [`class SongCrudRepository`](src/songs/example2/src/main/java/songs/SongCrudRepository.java): intermedia operações com o banco de dados para objetos da classe Song (CRUD = create-read-update-delete)
 
 Neste exemplo, usamos mais recursos do *driver* MongoDB para mapear objetos no banco de dados, conforme esta documentação: https://www.mongodb.com/developer/languages/java/java-mapping-pojos/
 
