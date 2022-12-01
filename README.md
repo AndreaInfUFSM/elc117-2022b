@@ -327,7 +327,7 @@ SAINF: <a href="https://www.instagram.com/sainf_ufsm/">https://www.instagram.com
 <td>01/12/2022</td>
 <td>Qui</td>
 <td><ul>
-<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/java12/README.md#1">Prática: programação orientada a objetos e GUI com JavaFX.</a>.</li>
+<li><a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/java12/README.md#1">Prática: programação orientada a objetos e GUI com JavaFX</a>.</li>
 </ul></td>
 </tr>
 
