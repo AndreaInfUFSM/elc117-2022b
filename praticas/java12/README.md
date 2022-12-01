@@ -19,6 +19,24 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 translation: English  translations/English.md
 
+@load.java: @load(java,@0)
+
+@load
+<script style="display: block" modify="false" run-once="true">
+    fetch("@1")
+    .then((response) => {
+        if (response.ok) {
+            response.text()
+            .then((text) => {
+                send.lia("LIASCRIPT:\n``` @0\n" + text + "\n```")
+            })
+        } else {
+            send.lia("HTML: <span style='color: red'>Something went wrong, could not load <a href='@1'>@1</a></span>")
+        }
+    })
+    "loading: @1"
+</script>
+@end
 
 -->
 
@@ -140,7 +158,7 @@ Para executá-lo, abra um terminal e digite:
 
 ### Examine o segundo exemplo
 
-Este exemplo usa um arquivo em formato FXML (`primary.fxml`) para descrever os componentes da interface.
+Este exemplo usa um arquivo em formato FXML (`primary.fxml`) para descrever os componentes da interface: [src/02-fxml/app/src/main/resources/hellofx/primary.fxml](src/02-fxml/app/src/main/resources/hellofx/primary.fxml).
 
 Este arquivo pode ser gerado com a ferramenta [SceneBuilder](https://gluonhq.com/products/scene-builder/), que tem um editor visual de interfaces gráficas.
 
@@ -184,63 +202,25 @@ Este arquivo pode ser gerado com a ferramenta [SceneBuilder](https://gluonhq.com
 ```
 
 
-No método `main` em `App.java`, o arquivo FXML é carregado e associado à `Scene`.
-
-``` java
-package hellofx;
-
-import java.io.IOException;
-import javafx.application.Application;
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Scene;
-import javafx.stage.Stage;
-
-/**
- * JavaFX App
- */
-public class App extends Application {
-
-    @Override
-    public void start(Stage stage) throws IOException {
-        FXMLLoader fxmlLoader = new FXMLLoader(App.class.getResource("primary.fxml"));
-        Scene scene = new Scene(fxmlLoader.load(), 480,160);
-        scene.getRoot().setStyle("-fx-font-family: 'sans-serif'");
-        stage.setScene(scene);
-        stage.setTitle("First FXML Example");
-        stage.show();
-    }
-
-    public static void main(String[] args) {
-        launch();
-    }
-}
-
-```
+No método `main` em `App.java`, o arquivo FXML é carregado e associado à `Scene`: [02-fxml/app/src/main/java/hellofx/App.java](src/02-fxml/app/src/main/java/hellofx/App.java)
 
 
-O código que trata eventos na interface fica em uma classe *controller*, localizada em outro arquivo.
+@[load.java](src/02-fxml/app/src/main/java/hellofx/App.java)
 
-``` java 
-package hellofx;
 
-import javafx.event.ActionEvent;
-import javafx.fxml.FXML;
-import javafx.scene.control.Label;
-import javafx.scene.control.TextField;
 
-public class PrimaryController {
-    @FXML TextField nameText;
-    @FXML Label greeting;
-    
-    @FXML
-    void doGreeting(ActionEvent event) {
-        String name = nameText.getText();
-        String message = "Hello, "+name+". Welcome to JavaFX!";
-        greeting.setText(message);
-    }
-}
 
-```
+
+
+
+
+
+O código que trata eventos na interface fica em uma classe *controller*, localizada em outro arquivo: [02-fxml/app/src/main/java/hellofx/PrimaryController.java](src/02-fxml/app/src/main/java/hellofx/PrimaryController.java)
+
+@[load.java](src/02-fxml/app/src/main/java/hellofx/PrimaryController.java)
+
+
+
 
 Usando FXML, o código que descreve os componentes visuais da interface fica separado da lógica da aplicação. Isso é muito conveniente e uma boa prática a seguir em programas maiores.
 
