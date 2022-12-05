@@ -84,7 +84,7 @@ translation: English  translations/English.md
 
 * Os dados são enviados/recebidos pela API em formato JSON, conforme este exemplo (resultado da requisição Read):
 
-   ```json 
+```json 
    
    { "data":[
       {
@@ -103,8 +103,8 @@ translation: English  translations/English.md
       }
       ]
    }
-   
-   ```
+  
+```
    
 
 *  Para trabalhar com este formato em Java, é conveniente usar uma biblioteca externa que converte dados de objetos em memória para o formato JSON e vice-versa (serialização/deserialização). Neste projeto, é usada a biblioteca [GSON](https://github.com/google/gson/blob/master/UserGuide.md).
