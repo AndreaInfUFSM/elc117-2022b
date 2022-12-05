@@ -54,7 +54,7 @@ translation: English  translations/English.md
 
 * Existe uma grande variedade de opções em nuvem para isso: 
 
-  - bancos de dados relacionais (por exemplo, PostgreSQL em http://www.elephantsql ou http://supabase.com), 
+  - bancos de dados relacionais (por exemplo, PostgreSQL em http://www.elephantsql.com ou http://supabase.com), 
   - bancos de dados NoSQL (por exemplo, MongoDB em https://www.mongodb.com/atlas) 
   - e até mesmo serviços de planilhas em nuvem, como Google Sheets.
 
