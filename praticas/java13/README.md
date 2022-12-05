@@ -144,6 +144,7 @@ Nesta prática, vamos executar os exemplos e combiná-los para produzir um novo 
 Obtenha o código como nas outras práticas, atualizando seu fork do repositório da disciplina (ou clonando todo o repositório).
 
 O código tem 3 projetos dentro da pasta `src`:
+
 * 01-songrepository: projeto sem interface gráfica que trata de persistência de dados no Google Sheets.
 * 02-songform: projeto com interface gráfica mas sem persistência de dados
 * 03-songpractice: projeto que você vai preencher para combinar as funcionalidades dos 2 anteriores
