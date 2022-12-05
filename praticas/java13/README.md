@@ -84,25 +84,25 @@ translation: English  translations/English.md
 
 * Os dados são enviados/recebidos pela API em formato JSON, conforme este exemplo (resultado da requisição Read):
 
-          ``` json 
-          { "data":[
-              {
-                    "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl",
-                    "name": "Enemy",
-                    "tags": "pop rock",
-                    "user": "andreainfufsm",
-                    "artist": "Imagine Dragons"
-               },
-               {
-                    "url": "https://open.spotify.com/track/2JVbZEpewmqNlSzmXJTx2E",
-                    "name": "Favela",
-                    "tags": "EDM",
-                    "user": "andreainfufsm",
-                    "artist": "Alok"
-               }
-               ]
+  ``` json 
+  { "data":[
+         {
+               "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl",
+               "name": "Enemy",
+               "tags": "pop rock",
+               "user": "andreainfufsm",
+               "artist": "Imagine Dragons"
+          },
+          {
+               "url": "https://open.spotify.com/track/2JVbZEpewmqNlSzmXJTx2E",
+               "name": "Favela",
+               "tags": "EDM",
+               "user": "andreainfufsm",
+               "artist": "Alok"
           }
-          ```
+     ]
+  }
+  ```
 
 *  Para trabalhar com este formato em Java, é conveniente usar uma biblioteca externa que converte dados de objetos em memória para o formato JSON e vice-versa (serialização/deserialização). Neste projeto, é usada a biblioteca [GSON](https://github.com/google/gson/blob/master/UserGuide.md).
 
