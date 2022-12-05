@@ -85,6 +85,7 @@ translation: English  translations/English.md
 * Os dados são enviados/recebidos pela API em formato JSON, conforme este exemplo (resultado da requisição Read):
 
    ```json 
+   
    { "data":[
       {
          "url": "https://open.spotify.com/track/3CIyK1V4JEJkg02E4EJnDl",
@@ -102,6 +103,7 @@ translation: English  translations/English.md
       }
       ]
    }
+   
    ```
    
 
