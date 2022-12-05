@@ -53,6 +53,7 @@ translation: English  translations/English.md
 * Armazenar dados em nuvem é uma tendência e combina muito bem com a **programação orientada a objetos**! 
 
 * Existe uma grande variedade de opções em nuvem para isso: 
+
   * bancos de dados relacionais (por exemplo, PostgreSQL em www.elephantsql ou supabase.com), 
   * bancos de dados NoSQL (por exemplo, MongoDB em https://www.mongodb.com/atlas) 
   * e até mesmo serviços de planilhas em nuvem, como Google Sheets.
