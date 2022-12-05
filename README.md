@@ -332,6 +332,24 @@ SAINF: <a href="https://www.instagram.com/sainf_ufsm/">https://www.instagram.com
 </tr>
 
 
+<tr>
+<td align="right">20</td>
+<td>06/12/2022</td>
+<td>Ter</td>
+<td><ul>
+<li>Última aula do ano! <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/java13/README.md#1">Prática: programação orientada a objetos com GUI e persistência de dados</a>.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">21</td>
+<td>03/01/2023</td>
+<td>Ter</td>
+<td><ul>
+<li>Primeira aula do ano! Ano novo, novo paradigma...</li>
+</ul></td>
+</tr>
+
 </tbody>
 </table>
 <p align="right">(<a href="#readme-top">início</a>)</p>
