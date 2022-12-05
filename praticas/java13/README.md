@@ -84,6 +84,10 @@ translation: English  translations/English.md
 
 * Os dados são enviados/recebidos pela API em formato JSON, conforme este exemplo (resultado da requisição Read):
 
+   ```
+   This code is verbatim
+   ```
+
   ``` json 
   { "data":[
          {
