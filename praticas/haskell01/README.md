@@ -750,14 +750,15 @@ Esta parte deverá ser entregue em um arquivo nomeado `haskell01parte1.hs`. ATEN
 10. Crie uma função `hasEqHeads :: [Int] -> [Int] -> Bool` que verifique se 2 listas possuem o mesmo primeiro elemento. Use a função `head` e o operador lógico `==` para verificar igualdade.
 
 11. A função pré-definida `elem` recebe um elemento e uma lista, e verifica se o elemento está presente ou não na lista. Teste essa função no interpretador: 
-    ```haskell
-    elem 3 [1,2,3]
-    elem 4 [1,2,3]
-    elem 'c' "abcd"
-    elem 'A' "abcd"
-    ```
 
-    Agora use a função `elem` para criar uma função `isVowel2 :: Char -> Bool` que verifique se um caracter é uma vogal, tanto maiúscula como minúscula.
+   ``` haskell
+   elem 3 [1,2,3]
+   elem 4 [1,2,3]
+   elem 'c' "abcd"
+   elem 'A' "abcd"
+   ```
+
+   Agora use a função `elem` para implementar uma função `isVowel2 :: Char -> Bool` que verifique se um caracter é uma vogal, tanto maiúscula como minúscula.
 
 
 ### Parte 2 - Funções de alta ordem
