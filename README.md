@@ -346,11 +346,21 @@ SAINF: <a href="https://www.instagram.com/sainf_ufsm/">https://www.instagram.com
 <td>03/01/2023</td>
 <td>Ter</td>
 <td><ul>
-<li>Primeira aula do ano! Ano novo, novo paradigma...</li>
+<li>Ano novo, novo paradigma: Programação Funcional! (dinâmica com perguntas e respostas)</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">22</td>
+<td>05/01/2023</td>
+<td>Qui</td>
+<td><ul>
+<li>Resumo de motivação e características da programação funcional <a href="https://docs.google.com/presentation/d/1u7ISJVdc7lvaQVsknW89xzrmw43l289sTB8W3KNxRO0/edit?usp=sharing">(slides)</a></li>
+<li>Introdução à linguagem Haskell <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/haskell01/README.md#1">(prática)</a></li>
 </ul></td>
 </tr>
 <!-- https://docs.google.com/presentation/d/1u7ISJVdc7lvaQVsknW89xzrmw43l289sTB8W3KNxRO0/edit?usp=sharing -->
-<!-- https://jamboard.google.com/d/1GNSSKlSy5BduemkuCy1stjVt59BHoeY869tOCWTGBaQ/edit?usp=sharing -->
+
 </tbody>
 </table>
 <p align="right">(<a href="#readme-top">início</a>)</p>
