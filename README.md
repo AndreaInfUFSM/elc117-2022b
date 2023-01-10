@@ -356,9 +356,19 @@ SAINF: <a href="https://www.instagram.com/sainf_ufsm/">https://www.instagram.com
 <td>Qui</td>
 <td><ul>
 <li>Resumo de motivação e características da programação funcional <a href="https://docs.google.com/presentation/d/1u7ISJVdc7lvaQVsknW89xzrmw43l289sTB8W3KNxRO0/edit?usp=sharing">(slides)</a></li>
-<li>Introdução à linguagem Haskell <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/haskell01/README.md#1">(prática)</a></li>
+<li>Introdução à linguagem Haskell <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/haskell01/README.md#1">(slides e prática)</a></li>
 </ul></td>
 </tr>
+
+<tr>
+<td align="right">23</td>
+<td>10/01/2023</td>
+<td>Ter</td>
+<td><ul>
+<li>Programação funcional: funções de alta ordem e funções anônimas em Haskell <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/haskell02/README.md#1">(slides e prática)</a></li>
+</ul></td>
+</tr>
+
 <!-- https://docs.google.com/presentation/d/1u7ISJVdc7lvaQVsknW89xzrmw43l289sTB8W3KNxRO0/edit?usp=sharing -->
 
 </tbody>
