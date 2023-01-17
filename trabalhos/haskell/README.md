@@ -90,6 +90,8 @@ No Repl.it, é possível configurar um projeto para incluir bibliotecas além da
 
 ??[](https://replit.com/@AndreaSchwertne/2022haskell-svg-systemrandom)
 
+**Como o Repl.it permite configurar dependências de projetos?** Usando Nix, um *"purely functional package manager"* (sim, paradigma funcional em ação!). Veja mais nesta entrevista com o CEO do Repl.it: https://semaphoreci.com/blog/amjad-masad-replit
+
 #### Um gerador simples: LCG
 
 Um algoritmo simples para geração de números pseudo-aleatórios é o LCG (*linear congruential generator*). No site [RosettaCode](https://rosettacode.org/wiki/Linear_congruential_generator) há implementações de 2 geradores LCG populares escritos em várias linguagens, incluindo Haskell.
