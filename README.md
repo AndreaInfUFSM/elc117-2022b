@@ -378,6 +378,16 @@ SAINF: <a href="https://www.instagram.com/sainf_ufsm/">https://www.instagram.com
 </ul></td>
 </tr>
 
+
+<tr>
+<td align="right">25</td>
+<td>17/01/2023</td>
+<td>Ter</td>
+<td><ul>
+<li>Trabalho de Programação funcional <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/trabalhos/haskell/README.md#1">(orientações e starter code)</a></li>
+</ul></td>
+</tr>
+
 <!-- https://docs.google.com/presentation/d/1u7ISJVdc7lvaQVsknW89xzrmw43l289sTB8W3KNxRO0/edit?usp=sharing -->
 
 </tbody>
