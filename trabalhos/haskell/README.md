@@ -121,6 +121,6 @@ Em [lcgexample.hs](lcgexample.hs) há um exemplo de código com esses geradores,
 
   Seção sobre geração de dados aleatórios no tutorial Learn You a Haskell for Great Good
 
-
+- Outros links em breve aqui (pull requests com sugestões são bem-vindos!)
 
 
