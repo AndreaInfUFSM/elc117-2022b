@@ -388,6 +388,15 @@ SAINF: <a href="https://www.instagram.com/sainf_ufsm/">https://www.instagram.com
 </ul></td>
 </tr>
 
+<tr>
+<td align="right">26</td>
+<td>19/01/2023</td>
+<td>Qui</td>
+<td><ul>
+<li>Programação lógica com Prolog <a href="https://liascript.github.io/course/?https://raw.githubusercontent.com/AndreaInfUFSM/elc117-2022b/main/praticas/prolog01/README.md#1">(slides)</a></li>
+</ul></td>
+</tr>
+
 <!-- https://docs.google.com/presentation/d/1u7ISJVdc7lvaQVsknW89xzrmw43l289sTB8W3KNxRO0/edit?usp=sharing -->
 
 </tbody>
