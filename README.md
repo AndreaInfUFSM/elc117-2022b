@@ -397,6 +397,15 @@ SAINF: <a href="https://www.instagram.com/sainf_ufsm/">https://www.instagram.com
 </ul></td>
 </tr>
 
+<tr>
+<td align="right">27</td>
+<td>23/01/2023</td>
+<td>Ter</td>
+<td><ul>
+<li><a href="trabalhos/perso2">Produção individual personalizada - proggramação funcional/lógica</a>.</li>
+</ul></td>
+</tr>
+
 <!-- https://docs.google.com/presentation/d/1u7ISJVdc7lvaQVsknW89xzrmw43l289sTB8W3KNxRO0/edit?usp=sharing -->
 
 </tbody>
@@ -407,6 +416,8 @@ SAINF: <a href="https://www.instagram.com/sainf_ufsm/">https://www.instagram.com
 
 ## Produção individual personalizada
 - [Programação orientada a objetos / concorrente](trabalhos/perso1)
+- [Programação funcional / lógica](trabalhos/perso2)
+
 
 ## Projeto de Programação Orientada a Objetos
 
