@@ -402,7 +402,7 @@ SAINF: <a href="https://www.instagram.com/sainf_ufsm/">https://www.instagram.com
 <td>23/01/2023</td>
 <td>Ter</td>
 <td><ul>
-<li><a href="trabalhos/perso2">Produção individual personalizada - proggramação funcional/lógica</a>.</li>
+<li><a href="trabalhos/perso2">Produção individual personalizada - programação funcional/lógica</a>.</li>
 </ul></td>
 </tr>
 
