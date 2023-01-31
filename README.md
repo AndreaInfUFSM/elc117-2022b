@@ -399,10 +399,38 @@ SAINF: <a href="https://www.instagram.com/sainf_ufsm/">https://www.instagram.com
 
 <tr>
 <td align="right">27</td>
-<td>23/01/2023</td>
+<td>24/01/2023</td>
 <td>Ter</td>
 <td><ul>
-<li><a href="trabalhos/perso2">Produção individual personalizada - proggramação funcional/lógica</a>.</li>
+<li><a href="trabalhos/perso2">Produção individual personalizada - programação funcional/lógica</a>.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">28</td>
+<td>26/01/2023</td>
+<td>Qui</td>
+<td><ul>
+<li><a href="trabalhos/perso2">Produção individual personalizada - programação funcional/lógica</a>.</li>
+</ul></td>
+</tr>
+
+<tr>
+<td align="right">29</td>
+<td>31/01/2023</td>
+<td>Ter</td>
+<td><ul>
+<li>Apresentação de trabalhos individuais.</li>
+</ul></td>
+</tr>
+
+
+<tr>
+<td align="right">29</td>
+<td>02/02/2023</td>
+<td>Qui</td>
+<td><ul>
+<li>Apresentação de trabalhos individuais.</li>
 </ul></td>
 </tr>
 
@@ -435,8 +463,8 @@ A produção **coletiva** (peso 5 em cada bimestre) consistirá em projetos de p
 
 As produções serão examinadas a cada bimestre, compondo 2 momentos de avaliação parcial, nas seguintes datas:
 
-- 1o Bimestre: ~~01 e 03/11/2022~~ (a definir)
-- 2o Bimestre: 24 e 25/01/2023
+- 1o Bimestre: ~~01 e 03/11/2022~~ (cronograma alterado - ver aulas)
+- 2o Bimestre: ~~24 e 25/01/2023~~ (cronograma alterado - ver aulas)
 
 Avaliação final (exame): 07/02/2023
 <p align="right">(<a href="#readme-top">início</a>)</p>
