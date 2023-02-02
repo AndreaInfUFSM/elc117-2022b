@@ -430,7 +430,7 @@ SAINF: <a href="https://www.instagram.com/sainf_ufsm/">https://www.instagram.com
 <td>02/02/2023</td>
 <td>Qui</td>
 <td><ul>
-<li>Apresentação de trabalhos individuais.</li>
+<li>Apresentação de trabalhos individuais. Ordem de apresentações com <a href="https://replit.com/@AndreaSchwertne/2022prolog">Repl.it</a></li>
 </ul></td>
 </tr>
 
