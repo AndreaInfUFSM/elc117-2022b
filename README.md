@@ -442,6 +442,8 @@ SAINF: <a href="https://www.instagram.com/sainf_ufsm/">https://www.instagram.com
 
 ## Avaliações
 
+[Notas](https://script.google.com/macros/s/AKfycbzJtO8F2_Ik3vil3WJU4W62c6V9n71wDfq1spG1phyQJebChA-UNPMaMmI-GEC-wA_b/exec)
+
 ## Produção individual personalizada
 - [Programação orientada a objetos / concorrente](trabalhos/perso1)
 - [Programação funcional / lógica](trabalhos/perso2)
