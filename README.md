@@ -444,6 +444,8 @@ SAINF: <a href="https://www.instagram.com/sainf_ufsm/">https://www.instagram.com
 
 [Notas](https://script.google.com/macros/s/AKfycbzJtO8F2_Ik3vil3WJU4W62c6V9n71wDfq1spG1phyQJebChA-UNPMaMmI-GEC-wA_b/exec)
 
+Obs.: Estudantes que não atingiram média 7,0 devem manter contato com a professora para combinar as últimas entregas, que irão compor o exame final.
+
 ## Produção individual personalizada
 - [Programação orientada a objetos / concorrente](trabalhos/perso1)
 - [Programação funcional / lógica](trabalhos/perso2)
