@@ -33,7 +33,7 @@ Se você achou os requisitos muito amplos e está estranhando ter tanta liberdad
 
 - Java é uma linguagem em constante evolução e com muitas oportunidades profissionais. Se você gostaria de ampliar/aprofundar seu conhecimento em Java, aqui estão algumas ideias:
   1. Escolha alguma biblioteca/framework em Java, selecione alguns tutoriais, execute exemplos e combine recursos para criar um código adaptado a seus interesses.   
-  Não vale se guiar por apenas um tutorial ou implesmente entregar algum código de exemplo que você encontrar :smiley:.
+  Não vale se guiar por apenas um tutorial ou simplesmente entregar algum código de exemplo que você encontrar :smiley:.
   2. Produza um material explicativo sobre algum recurso de Java que não tenha sido visto na disciplina, ou que você queira entender melhor. Vale escolher um tópico e resolver exercícios, produzir alguma ilustração, texto, vídeo sobre o tópico, etc. Não vale simplesmente reproduzir algum tutorial que você encontrar por aí, ou repetir algo que já foi feito sem acrescentar nada.
   3. Escolha algum projeto open-source de grande porte desenvolvido em Java, consulte a documentação para desenvolvedores, faça seu próprio build/deploy, examine o código, identifique práticas de orientação a objetos utilizadas, insira alguma modificação no código (mesmo que seja um simples print :smiley:).
 
